@@ -2,7 +2,7 @@
 
 A polished browser-based Snake game with a neon arcade visual style, responsive layout, and persistent high-score tracking.
 
-![Neon Snake screenshot](./test-screenshot.png)
+![Neon Snake gameplay screenshot](./neon-snake-screenshot.png)
 
 ## Overview
 
@@ -69,7 +69,7 @@ http://localhost:8000
 ├── index.html          # App layout and UI shell
 ├── styles.css          # Visual design, layout, responsive rules
 ├── app.js              # Game state, input handling, loop, rendering
-├── test-screenshot.png # Screenshot used in this README
+├── neon-snake-screenshot.png # README screenshot
 └── README.md           # Project documentation
 ```
 
@@ -98,6 +98,6 @@ This project does not use a package manager, framework, or bundler. To modify it
 - Obstacles or alternate game modes
 - Better animation timing with `requestAnimationFrame`
 
-## License
+## Project Status
 
-No license file is currently included in this repository. If you want the project to be openly reusable, add a license such as MIT.
+This repository currently focuses on the playable browser version of Neon Snake. Documentation is kept practical and aligned with the current implementation.
